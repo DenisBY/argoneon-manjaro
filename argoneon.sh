@@ -111,7 +111,7 @@ then
 		pacman_pkglist=(i2c-tools python-pip base-devel yay smartmontools)
 		aur_pkglist=(raspi-gpio-git)
 	else
-		pacman_pkglist=(i2c-tools python-pip base-devel)
+		pacman_pkglist=(i2c-tools python-pip base-devel yay)
 		aur_pkglist=(raspi-gpio-git)
 	fi
 fi
