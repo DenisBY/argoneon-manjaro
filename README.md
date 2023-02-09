@@ -16,4 +16,6 @@ i2c-bcm2708
 3. Reboot
 
 4. Install
-`curl https://github.com/DenisBY/argoneon-manjaro/raw/main/argoneon.sh | bash`
+```
+curl https://github.com/DenisBY/argoneon-manjaro/raw/main/argoneon.sh | bash
+```
