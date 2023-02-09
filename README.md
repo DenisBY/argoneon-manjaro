@@ -1,5 +1,5 @@
 # argoneon-manjaro
-argoneon.sh adapted for manjaro on RPI4
+[argoneon.sh](https://download.argon40.com/argoneon.sh) adapted for manjaro on RPI4
 
 ## How to use
 1. Add to `/boot/config.txt`:
